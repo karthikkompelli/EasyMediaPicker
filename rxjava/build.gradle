@@ -1,0 +1,39 @@
+apply plugin: 'com.android.library'
+//apply plugin: 'com.novoda.bintray-release'
+
+//./gradlew bintrayUpload
+
+//publish {
+//    userOrg = 'karthikkompelli'
+//    groupId = 'net.karthikkompelli.EasyMediaPicker'
+//    artifactId = 'rxjava'
+//    uploadName = 'MediaPickerRx'
+//    publishVersion = '2.4.4'
+//    desc = 'MediaPickerRx'
+//    dryRun = false
+//    website = 'https://github.com/karthikkompelli/EasyMediaPicker'
+//}
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation 'io.reactivex.rxjava2:rxandroid:2.0.2'
+    implementation 'io.reactivex.rxjava2:rxjava:2.1.12'
+    implementation project(':libary')
+}
