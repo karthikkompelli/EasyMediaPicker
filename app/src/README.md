@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="left">
   <img src="https://cloud.githubusercontent.com/assets/4659608/12700433/4276edc0-c7f3-11e5-9f2c-de6bcbb9416d.png" width="600">
 </p>
@@ -230,3 +231,7 @@ You can change the strings be overwriting below resources in your project.
 
 
 
+=======
+# EasyMediaPicker
+EasyMediaPicker
+>>>>>>> 7e9c6739e89498f5912340cc174e2f567f30ca3b
