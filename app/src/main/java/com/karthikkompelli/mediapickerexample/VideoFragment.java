@@ -1,4 +1,4 @@
-package net.karthikkompelli.mediapickerexample;
+package com.karthikkompelli.mediapickerexample;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -14,6 +14,8 @@ import android.widget.TextView;
 import android.widget.VideoView;
 
 import com.karthikkompelli.easymediapicker.Video.VideoPicker;
+
+import net.karthikkompelli.mediapickerexample.R;
 
 import java.util.List;
 

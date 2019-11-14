@@ -1,4 +1,4 @@
-package net.karthikkompelli.mediapickerexample;
+package com.karthikkompelli.mediapickerexample;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,6 +10,8 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
+
+import net.karthikkompelli.mediapickerexample.R;
 
 public class MainActivity extends AppCompatActivity {
     private Fragment videoFragment = new VideoFragment();

@@ -1,4 +1,4 @@
-package net.karthikkompelli.mediapickerexample;
+package com.karthikkompelli.mediapickerexample;
 
 import android.content.Intent;
 import android.graphics.BitmapFactory;
@@ -13,6 +13,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.karthikkompelli.easymediapicker.Image.ImagePicker;
+
+import net.karthikkompelli.mediapickerexample.R;
 
 import java.util.List;
 
