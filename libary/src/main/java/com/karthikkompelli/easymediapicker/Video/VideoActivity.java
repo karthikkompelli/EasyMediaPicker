@@ -372,7 +372,7 @@ public class VideoActivity extends AppCompatActivity {
                     destinationFile = file;
                 } else {
                     destinationFile = new File(mVideoConfig.directory, Utility.getRandomString() + mVideoConfig.extension.getValue());
-                    FileProcessing.copyDirectory(file, destinationFile);
+                    FileProcessing.copyDirectory(file, destinationFile, mVideoConfig.debug);
                 }
                 destinationPaths.add(destinationFile.getAbsolutePath());
 

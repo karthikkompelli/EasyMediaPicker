@@ -276,4 +276,36 @@ public class FileProcessing {
         } catch (Exception ignored) {
         }
     }
+
+    public static void copyDirectory(File sourceLocation, File targetLocation, boolean debug) {
+        try {
+            if (sourceLocation.isDirectory()) {
+                if (!targetLocation.exists()) {
+                    targetLocation.mkdir();
+                }
+
+                String[] children = sourceLocation.list();
+                for (String aChildren : children) {
+                    copyDirectory(new File(sourceLocation, aChildren),
+                            new File(targetLocation, aChildren), debug);
+                }
+            } else {
+
+                InputStream in = new FileInputStream(sourceLocation);
+                OutputStream out = new FileOutputStream(targetLocation);
+
+                // Copy the bits from instream to outstream
+                byte[] buf = new byte[1024];
+                int len;
+                while ((len = in.read(buf)) > 0) {
+                    out.write(buf, 0, len);
+                }
+                in.close();
+                out.close();
+            }
+        } catch (Exception e) {
+            if (debug)
+                e.printStackTrace();
+        }
+    }
 }
