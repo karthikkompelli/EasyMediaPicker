@@ -22,7 +22,7 @@ Step 2. Add the dependency
 	        implementation 'com.github.KarthikKompelli:EasyMediaPicker:1.0.4'
 	}
 
-Android 10 (Q)
+
 Google has a new feature on Android Q: filtered view for external storage. A quick fix for that is to add this code in the AndroidManifest.xml file:
 
 	<manifest ... >
