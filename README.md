@@ -23,7 +23,7 @@ Step 2. Add the dependency
 	}
 
 
-Google has a new feature on Android Q: filtered view for external storage. A quick fix for that is to add this code in the AndroidManifest.xml file:
+Google has a new feature on Android 10 (Q): filtered view for external storage. A quick fix for that is to add this code in the AndroidManifest.xml file:
 
 	<manifest ... >
         <!-- This attribute is "false" by default on apps targeting Android Q. -->
