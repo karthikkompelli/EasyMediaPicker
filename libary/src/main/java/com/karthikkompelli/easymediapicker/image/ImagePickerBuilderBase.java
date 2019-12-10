@@ -1,4 +1,4 @@
-package com.karthikkompelli.easymediapicker.Image;
+package com.karthikkompelli.easymediapicker.image;
 
 /**
  * Created by Alhazmy13 on 8/7/16.

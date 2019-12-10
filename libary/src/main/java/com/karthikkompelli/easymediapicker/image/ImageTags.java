@@ -1,4 +1,4 @@
-package com.karthikkompelli.easymediapicker.Image;
+package com.karthikkompelli.easymediapicker.image;
 
 public class ImageTags {
     public static final class Tags {

@@ -1,4 +1,4 @@
-package com.karthikkompelli.easymediapicker.Video;
+package com.karthikkompelli.easymediapicker.video;
 
 /**
  * Created by Alhazmy13 on 8/7/16.

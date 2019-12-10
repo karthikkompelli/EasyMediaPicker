@@ -4,8 +4,8 @@ package net.karthikkompelli.mediapicker.rxjava.video;
 import android.content.Context;
 import android.content.IntentFilter;
 
-import com.karthikkompelli.easymediapicker.Video.VideoPicker;
-import com.karthikkompelli.easymediapicker.Video.VideoTags;
+import com.karthikkompelli.easymediapicker.video.VideoPicker;
+import com.karthikkompelli.easymediapicker.video.VideoTags;
 
 import java.lang.ref.WeakReference;
 import java.util.List;

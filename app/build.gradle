@@ -8,8 +8,8 @@ android {
         minSdkVersion 14
         targetSdkVersion 28
         applicationId 'com.karthikkompelli.easymediapickerexample'
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.0.4"
     }
 
     buildTypes {

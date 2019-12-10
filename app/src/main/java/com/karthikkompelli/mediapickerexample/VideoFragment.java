@@ -13,7 +13,7 @@ import android.widget.MediaController;
 import android.widget.TextView;
 import android.widget.VideoView;
 
-import com.karthikkompelli.easymediapicker.Video.VideoPicker;
+import com.karthikkompelli.easymediapicker.video.VideoPicker;
 
 import net.karthikkompelli.mediapickerexample.R;
 

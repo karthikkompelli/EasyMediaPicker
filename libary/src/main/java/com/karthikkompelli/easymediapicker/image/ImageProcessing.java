@@ -1,4 +1,4 @@
-package com.karthikkompelli.easymediapicker.Video;
+package com.karthikkompelli.easymediapicker.image;
 
 import android.annotation.TargetApi;
 import android.content.ClipData;
@@ -17,14 +17,16 @@ import java.util.List;
  * Created by Alhazmy13 on 8/15/16.
  * MediaPicker
  */
-class VideoProcessing {
+class ImageProcessing {
 
     @TargetApi(Build.VERSION_CODES.JELLY_BEAN)
-    static List<String> processMultiVideos(Context context, Intent data) {
+    public static List<String> processMultiImage(Context context, Intent data) {
         List<String> listOfImgs = new ArrayList<>();
-        if ((Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN_MR2) && (null == data.getData())) {
+        if ((Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN_MR2) && (null == data.getData()))
+        {
             ClipData clipdata = data.getClipData();
-            for (int i = 0; i < clipdata.getItemCount(); i++) {
+            for (int i = 0; i< (clipdata != null ? clipdata.getItemCount() : 0); i++)
+            {
                 Uri selectedImage = clipdata.getItemAt(i).getUri();
                 String selectedImagePath = FileProcessing.getPath(context, selectedImage);
                 if (selectedImagePath == null)
@@ -34,4 +36,7 @@ class VideoProcessing {
         }
         return listOfImgs;
     }
+
 }
+
+

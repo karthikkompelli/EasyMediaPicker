@@ -1,6 +1,6 @@
 package net.karthikkompelli.mediapicker.rxjava.image;
 
-import com.karthikkompelli.easymediapicker.Image.ImagePicker;
+import com.karthikkompelli.easymediapicker.image.ImagePicker;
 
 import java.util.List;
 

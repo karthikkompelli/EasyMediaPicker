@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import com.karthikkompelli.easymediapicker.Image.ImageTags;
+import com.karthikkompelli.easymediapicker.image.ImageTags;
 
 import java.util.List;
 

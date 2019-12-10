@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.karthikkompelli.easymediapicker.Image.ImagePicker;
+import com.karthikkompelli.easymediapicker.image.ImagePicker;
 
 import net.karthikkompelli.mediapickerexample.R;
 

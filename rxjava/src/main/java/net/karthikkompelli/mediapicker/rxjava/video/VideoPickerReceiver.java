@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import com.karthikkompelli.easymediapicker.Video.VideoTags;
+import com.karthikkompelli.easymediapicker.video.VideoTags;
 
 import java.util.List;
 

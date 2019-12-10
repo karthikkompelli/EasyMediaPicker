@@ -2,15 +2,16 @@
     package="com.karthikkompelli.easymediapicker">
 
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
 
     <application>
         <activity
-            android:name=".Image.ImageActivity"
+            android:name=".image.ImageActivity"
             android:theme="@style/Theme.AppCompat.Translucent" />
         <activity
-            android:name=".Video.VideoActivity"
+            android:name=".video.VideoActivity"
             android:theme="@style/Theme.AppCompat.Translucent" />
 
         <provider

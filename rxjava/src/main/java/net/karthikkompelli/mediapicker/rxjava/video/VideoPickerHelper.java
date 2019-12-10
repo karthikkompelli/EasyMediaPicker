@@ -1,6 +1,6 @@
 package net.karthikkompelli.mediapicker.rxjava.video;
 
-import com.karthikkompelli.easymediapicker.Video.VideoPicker;
+import com.karthikkompelli.easymediapicker.video.VideoPicker;
 
 import java.util.List;
 

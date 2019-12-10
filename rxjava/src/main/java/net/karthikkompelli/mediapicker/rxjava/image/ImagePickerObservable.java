@@ -4,8 +4,8 @@ package net.karthikkompelli.mediapicker.rxjava.image;
 import android.content.Context;
 import android.content.IntentFilter;
 
-import com.karthikkompelli.easymediapicker.Image.ImagePicker;
-import com.karthikkompelli.easymediapicker.Image.ImageTags;
+import com.karthikkompelli.easymediapicker.image.ImagePicker;
+import com.karthikkompelli.easymediapicker.image.ImageTags;
 
 import java.lang.ref.WeakReference;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.karthikkompelli.easymediapicker.Video;
+package com.karthikkompelli.easymediapicker.video;
 
 import android.app.Activity;
 import android.content.Intent;

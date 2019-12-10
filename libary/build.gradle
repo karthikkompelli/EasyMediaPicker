@@ -9,7 +9,7 @@ publish {
     groupId = 'com.karthikkompelli.EasyMediaPicker'
     artifactId = 'libary'
     uploadName = 'EasyMediaPicker'
-    publishVersion = '1.0.3'
+    publishVersion = '1.0.4'
     desc = 'EasyMediaPicker'
     dryRun = false
     website = 'https://github.com/karthikkompelli/EasyMediaPicker'
@@ -21,8 +21,8 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0.3"
+        versionCode 2
+        versionName "1.0.4"
     }
 
     lintOptions {

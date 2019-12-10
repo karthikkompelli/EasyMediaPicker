@@ -1,4 +1,4 @@
-package com.karthikkompelli.easymediapicker.Image;
+package com.karthikkompelli.easymediapicker.image;
 
 import android.os.Environment;
 
