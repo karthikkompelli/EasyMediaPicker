@@ -14,33 +14,13 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/karthikkompelli/mediapickerexample/ImageFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/karthikkompelli/mediapickerexample/ImageFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/karthikkompelli/mediapickerexample/VideoFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/karthikkompelli/mediapickerexample/VideoFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deps.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/deps.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/libary/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Image/ImageActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/image/ImageActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Image/ImageConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/image/ImageConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Image/ImagePicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/image/ImagePicker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Image/ImagePickerBuilderBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/image/ImagePickerBuilderBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Image/ImageProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/image/ImageProcessing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Image/ImageTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/image/ImageTags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Video/VideoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Video/VideoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Video/VideoPicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoPicker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Video/VideoPickerBuilderBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoPickerBuilderBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Video/VideoProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoProcessing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Video/VideoTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoTags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/image/ImagePickerHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/image/ImagePickerHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/image/ImagePickerObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/image/ImagePickerObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/image/ImagePickerReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/image/ImagePickerReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/video/VideoPickerHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/video/VideoPickerHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/video/VideoPickerObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/video/VideoPickerObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/video/VideoPickerReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/rxjava/src/main/java/net/karthikkompelli/mediapicker/rxjava/video/VideoPickerReceiver.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +31,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="ZY224GR4Z2" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="8055aab3" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -67,28 +47,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libary/build.gradle">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="184">
+              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
+          <provider editor-type-id="android-manifest" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="-75">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deps.gradle">
+        <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="275">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -103,19 +84,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/FileProcessing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4845">
-              <caret line="304" column="13" selection-start-line="304" selection-start-column="13" selection-end-line="304" selection-end-column="13" />
+            <state relative-caret-position="40">
+              <caret line="279" column="29" selection-start-line="279" selection-start-column="29" selection-end-line="279" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -123,17 +95,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libary/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="170">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
           <provider editor-type-id="android-manifest" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/image/ImageActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6664">
+            <state relative-caret-position="7327">
               <caret line="431" column="44" selection-start-line="431" selection-start-column="44" selection-end-line="431" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -154,8 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="374" column="35" selection-start-line="374" selection-start-column="35" selection-end-line="374" selection-end-column="35" />
+            <state relative-caret-position="322">
+              <caret line="373" column="64" selection-start-line="373" selection-start-column="64" selection-end-line="373" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,15 +163,15 @@
         <option value="$PROJECT_DIR$/rxjava/build.gradle" />
         <option value="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/FileUtils2.java" />
         <option value="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Image/ImageActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/karthikkompelli/mediapickerexample/ImageFragment.java" />
         <option value="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/Video/VideoActivity.java" />
         <option value="$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/FileProcessing.java" />
-        <option value="$PROJECT_DIR$/libary/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/deps.gradle" />
         <option value="$PROJECT_DIR$/libary/build.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/libary/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -206,6 +187,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="CatdeaLogs" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,52 +213,6 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MediaPicker-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MediaPicker-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MediaPicker-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MediaPicker-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MediaPicker-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MediaPicker-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="karthikkompelli" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MediaPicker-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MediaPicker-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="karthikkompelli" type="462c0819:PsiDirectoryNode" />
-              <item name="mediapickerexample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MediaPicker-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MediaPicker-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MediaPicker-master" type="b2602c69:ProjectViewProjectNode" />
@@ -338,8 +275,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="CatdeaLogs" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -502,11 +437,26 @@
       <option name="project" value="LOCAL" />
       <updated>1575897988795</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1.0.4">
+      <created>1575958584906</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575958584906</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1.0.4">
+      <created>1575958641060</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575958641060</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
@@ -519,14 +469,14 @@
       <window_info id="Resources Explorer" order="8" weight="0.32980332" />
       <window_info id="Structure" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Build" order="1" weight="0.32854864" />
+      <window_info anchor="bottom" id="Build" order="1" weight="0.32750398" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3290938" />
       <window_info anchor="bottom" id="Catdea" order="3" />
-      <window_info anchor="bottom" id="Android Profiler" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Logcat" order="7" weight="0.618442" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32591414" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3248" />
       <window_info anchor="bottom" id="Flutter Performance" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.3290938" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.3290938" />
@@ -546,7 +496,8 @@
     <MESSAGE value="1.0.0 - fixes" />
     <MESSAGE value="1.0.2" />
     <MESSAGE value="1.0.3-Dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0.3-Dev" />
+    <MESSAGE value="1.0.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -654,14 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/karthikkompelli/mediapickerexample/ImageFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -676,23 +619,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoConfig.java">
+    <entry file="file://$PROJECT_DIR$/libary/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/FileProcessing.java">
+    <entry file="file://$PROJECT_DIR$/deps.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4845">
-          <caret line="304" column="13" selection-start-line="304" selection-start-column="13" selection-end-line="304" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/image/ImageActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6664">
+        <state relative-caret-position="7327">
           <caret line="431" column="44" selection-start-line="431" selection-start-column="44" selection-end-line="431" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -707,49 +657,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/FileProcessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="279" column="29" selection-start-line="279" selection-start-column="29" selection-end-line="279" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="374" column="35" selection-start-line="374" selection-start-column="35" selection-end-line="374" selection-end-column="35" />
+        <state relative-caret-position="322">
+          <caret line="373" column="64" selection-start-line="373" selection-start-column="64" selection-end-line="373" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/libary/src/main/java/com/karthikkompelli/easymediapicker/video/VideoConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        <state relative-caret-position="275">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deps.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libary/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="184">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
       <provider editor-type-id="android-manifest" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/libary/build.gradle">
+    <entry file="file://$PROJECT_DIR$/libary/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="357">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
