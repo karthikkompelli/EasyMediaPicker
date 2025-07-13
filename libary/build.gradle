@@ -1,28 +1,27 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.novoda.bintray-release'
-apply plugin: 'com.github.dcendents.android-maven'
-apply plugin: 'com.jfrog.bintray'
+//apply plugin: 'com.novoda.bintray-release'
+//apply plugin: 'com.github.dcendents.android-maven'
+//apply plugin: 'com.jfrog.bintray'
 
 //./gradlew bintrayUpload
-publish {
-    userOrg = 'karthikkompelli'
-    groupId = 'com.karthikkompelli.EasyMediaPicker'
-    artifactId = 'libary'
-    uploadName = 'EasyMediaPicker'
-    publishVersion = '1.0.4'
-    desc = 'EasyMediaPicker'
-    dryRun = false
-    website = 'https://github.com/karthikkompelli/EasyMediaPicker'
-}
+//publish {
+//    userOrg = 'karthikkompelli'
+//    groupId = 'com.karthikkompelli.EasyMediaPicker'
+//    artifactId = 'libary'
+//    uploadName = 'EasyMediaPicker'
+//    publishVersion = '1.0.4'
+//    desc = 'EasyMediaPicker'
+//    dryRun = false
+//    website = 'https://github.com/karthikkompelli/EasyMediaPicker'
+//}
 
 android {
+    namespace "com.karthikkompelli.easymediapicker"
     compileSdkVersion 28
 
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 2
-        versionName "1.0.4"
     }
 
     lintOptions {
@@ -34,6 +33,9 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+    buildFeatures {
+        buildConfig = true
     }
 }
 

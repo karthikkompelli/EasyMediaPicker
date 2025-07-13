@@ -2,6 +2,7 @@ apply plugin: 'com.android.application'
 //apply from: '../deps.gradle'
 
 android {
+    namespace "net.karthikkompelli.mediapickerexample"
     compileSdkVersion 28
 
     defaultConfig {
